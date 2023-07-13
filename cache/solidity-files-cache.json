@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/media/neha/Neha/New_BCF2023_Hackathon/lebupani/contracts/Token.sol": {
-      "lastModificationDate": 1689234089416,
-      "contentHash": "d2921c0a5300f336567b9759d4880117",
-      "sourceName": "contracts/Token.sol",
+    "/media/neha/Neha/New_BCF2023_Hackathon/lebupani/contracts/Signup.sol": {
+      "lastModificationDate": 1689238448887,
+      "contentHash": "39cac7e6d18ccae18ade06414fc4ee22",
+      "sourceName": "contracts/Signup.sol",
       "solcConfig": {
         "version": "0.8.18",
         "settings": {
@@ -33,7 +33,7 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "Token"
+        "SignUp"
       ]
     },
     "/media/neha/Neha/New_BCF2023_Hackathon/lebupani/contracts/SimpleContract.sol": {
@@ -71,10 +71,10 @@
         "SimpleContract"
       ]
     },
-    "/media/neha/Neha/New_BCF2023_Hackathon/lebupani/contracts/Signup.sol": {
-      "lastModificationDate": 1689238448887,
-      "contentHash": "39cac7e6d18ccae18ade06414fc4ee22",
-      "sourceName": "contracts/Signup.sol",
+    "/media/neha/Neha/New_BCF2023_Hackathon/lebupani/contracts/Token.sol": {
+      "lastModificationDate": 1689234089416,
+      "contentHash": "d2921c0a5300f336567b9759d4880117",
+      "sourceName": "contracts/Token.sol",
       "solcConfig": {
         "version": "0.8.18",
         "settings": {
@@ -103,7 +103,7 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "SignUp"
+        "Token"
       ]
     }
   }

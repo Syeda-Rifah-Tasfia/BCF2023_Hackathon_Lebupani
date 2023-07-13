@@ -11,6 +11,9 @@ describe("SignUp", function () {
     signUp = await SignUp.deploy();
     [owner] = await ethers.getSigners();
     userAddress = await owner.getAddress();
+
+    await signUp.deployed();
+    console.log("Address: " + signUp.address);
   });
 
   it("should register a new user", async function () {
